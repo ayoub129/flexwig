@@ -17,6 +17,8 @@ const ContactForm = () => {
         };
       
         const jsonData = JSON.stringify(formData);
+        
+        console.log(jsonData);
       
         // Send jsonData to your server here using fetch or axios
       }
