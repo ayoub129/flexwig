@@ -135,7 +135,7 @@ body {
 
 .hero {
   min-height: 650px;
-  background-image: url("../public/images/hero.png");
+  background-image: url("../public/images/hero.png") !important;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover; 
@@ -143,26 +143,26 @@ body {
 }
 
 .voorscholen {
-  background-image: url("../public/images/voorscholen.png");
+  background-image: url("../public/images/voorscholen.png") !important;
   min-height: 600px;
 }
 
 .vorleraren {
-  background-image: url("../public/images/speciaal.png");
+  background-image: url("../public/images/speciaal.png") !important;
   min-height: 550px;
 }
 
 .woman {
-  background-image: url("../public/images/woman.png");
+  background-image: url("../public/images/woman.png") !important;
   min-height: 550px;
 }
 
 .pregnant {
-  background-image: url("../public/images/pregnant.png");
+  background-image: url("../public/images/pregnant.png") !important;
 }
 
 .bold {
-  background-image: url("../public/images/bold.png");
+  background-image: url("../public/images/bold.png") !important;
   min-height: 500px;
 }
 
